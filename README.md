@@ -37,8 +37,9 @@ O código está dividido em duas partes principais:<br><br>
 2. `Função start_download_thread()`: responsável por iniciar uma nova thread para a função `download_video()`.<br>
 
 A interface gráfica foi criada com o uso das bibliotecas Tkinter e Pygame, permitindo que o usuário insira o link do vídeo
+a ser baixado e clique em um botão para iniciar o download e conversão. A mensagem de status é exibida em uma label na tela.
+
 
 ## Autor
 
 Sara Pessoa Silva
-a ser baixado e clique em um botão para iniciar o download e conversão. A mensagem de status é exibida em uma label na tela.
